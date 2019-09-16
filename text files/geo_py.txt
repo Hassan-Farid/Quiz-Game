@@ -1,0 +1,525 @@
+Q:What is the capital city of Pakistan?                      
+Iowa
+Islamabad                     
+Karachi
+Dehli
+
+Islamabad                         
+Q:What is the capital city of India?                         
+Iowa                     
+Islamabad                     
+Karachi                  
+Dehli
+
+Dehli                    
+Q:What is the capital city of Srilanka                       
+Kandy                     
+Colombo                      
+Karachi                   
+Dehli
+  
+Colombo                      
+Q:What is the capital city of Nigeria ?                      
+Abuja                     
+Islamabad                    
+Lagos                    
+Canne
+
+Abuja                        
+Q:What is the capital city of Zimbabwe?                      
+Harare                   
+Islamabad                     
+Karachi                  
+Abuja
+
+Harare
+Q:What is the capital city of USA?                           
+Iowa                      
+Islamabad                    
+Washington DC             
+Dehli                        
+
+Washington DC
+Q:What is the capital city of Russian Federation?            
+Honululu                   
+Moscow                      
+Dushanbe                   
+Maputo                      
+
+Moscow
+Q:Which is the longest river of Asia?                        
+Yangtze                    
+Nile                        
+Mississippi                
+Volga                       
+
+Yangtze
+Q:Which is the longest river of Africa?                      
+Yangtze                    
+Nile                         
+Mississippi                
+Volga                        
+
+Nile
+Q:Which is the longest river of Latin America?               
+Yangtze                    
+Nile                        
+Mississippi                
+Volga                       
+
+Mississippi
+Q:Which is the longest river of Europe?                      
+Yangtze                    
+Nile                        
+Mississippi                
+Volga                       
+
+Volga 
+Q:Which is the biggest lake in Europe?                       
+Saif-ul-Mulk               
+Caspian Sea                 
+Lake Superior              
+Lake Maracaibo              
+
+Caspian Sea
+Q:Which is the biggest lake in Asia ?                        
+Saif-ul-Mulk               
+Caspian Sea                 
+Lake Superior              
+Lake Maracaibo              
+
+Lake Maracaibo
+Q:Which is the biggest lake in North America?                
+Saif-ul-Mulk               
+Caspian Sea                 
+Lake Superior              
+Lake Maracaibo              
+
+Lake Superior
+Q:Which is the biggest lake in South America?                
+Saif-ul-Mulk               
+Caspian Sea                 
+Lake Michigan             
+Lake Maracaibo              
+
+Lake Maracaibo
+Q:Which is the biggest lake in Australia?                    
+Lake Eyre                  
+Hanan-e-Mashkhe             
+Lake Superior              
+Lake Maracaibo              
+
+Lake Eyre
+Q:Which is the smallest country of Europe                    
+Nauru                     
+Vatican City                 
+Lapaz                     
+San Marino                   
+
+Vatican City 
+Q:Which is the largest country of North America?             
+Russia                   
+Vatican City                  
+Canada                   
+San Marino                    
+
+Canada 
+Q:Which is the smallest country of Australia                 
+Nauru                    
+Vatican City                  
+Lapaz                    
+San Marino                    
+
+Nauru
+Q:Which is the smallest country of South America?            
+Nauru                    
+Grenada                      
+Lapaz                     
+Suriname                     
+
+Suriname
+Q:Which is the smallest country of Africa?                   
+Maldives                  
+Vatican City                 
+Seychelles                
+Iraq                         
+
+Seychelles
+Q:Which is the smallest country of Asia?                     
+Maldives                  
+Vatican City                 
+Male                      
+Iraq                         
+
+Maldives
+Q:Which is the largest country in Europe ?                   
+Russia                   
+Vatican City                  
+Canada                   
+San Marino                    
+
+Russia
+Q:What is the capital city of Mexico?                        
+Iowa                     
+Mexico City                   
+Nissau                   
+Panama City                   
+
+Mexico City
+Q:What is the capital city of Panama?                        
+Idaha                     
+Mexico City                  
+Nissau                    
+Panama City                  
+
+Panama City
+Q:What is the capital city of Bahamas?                       
+Iowa                     
+Mexico City                   
+Nissau                   
+Panama City                   
+
+Nissau
+Q:How many islands are there in New Zealand?                 
+Four thousand             
+Two                          
+Three                     
+One                          
+
+Two
+Q:How many islands are there in Australia ?                  
+Four thousand             
+Two                          
+Three                     
+One                          
+
+Two
+Q:How many islands are there in Indonesia?                   
+Four thousand             
+Two                          
+Three                     
+One                          
+
+Four thousand
+Q:What is the capital city of Iraq?                          
+Baghdad                     
+Tehran                      
+Jerusalem                   
+Cairo                       
+
+Baghdad 
+Q:What is the capital city of Iran?                          
+Baghdad                     
+Tehran                      
+Jerusalem                   
+Cairo                       
+
+Tehran
+Q:What is the capital city of Sudan?                         
+Baghdad                     
+Tehran                      
+Jerusalem                   
+Khartoum                    
+
+Khartoum
+Q:What is the capital city of Egypt?                         
+Baghdad                     
+Tehran                      
+Jerusalem                   
+Cairo                       
+
+Cairo
+Q:What is the capital city of Israel?                        
+Baghdad                     
+Tehran                      
+Jerusalem                   
+Cairo                       
+
+Jerusalem
+Q:What lies to the south of Bangladesh?                      
+Bay of Bengal                  
+Red Sea                 
+Arabian Sea                    
+Black Sea               
+
+Bay of Bengal
+Q:What lies to the south of Pakistan?                        
+Bay of Bengal                  
+Red Sea                 
+Arabian Sea                    
+Black Sea               
+
+Arabian Sea
+Q:What is the straight between Russia and US?                
+Traing Straight            
+Shoun Straight               
+Bering Straight            
+El Caso Straight             
+
+Bering Straight
+Q:What borders Spain to the East?                            
+Grenada                     
+Gibraltar                  
+Portugal                    
+Meditarrenean              
+
+Meditarrenean
+Q:What borders Spain to the West?                            
+Grenada                     
+Gibraltar                  
+Portugal                    
+Meditarrenean              
+
+Portugal
+Q:What is the capital city of Uzbekistan?                    
+Ashghabat                
+Dushanbe                     
+Tashkent                  
+Riga                         
+
+Tashkent
+Q:What is the capital city of Kazhakistan?                   
+Ashghabat                 
+Dushanbe                     
+Tashkent                  
+Astanna                      
+
+Astanna
+Q:What is the capital city of Kyrgyzstan?                    
+Bishkekh                  
+Dushanbe                     
+Tashkent                  
+Astanna                      
+
+Bishkekh
+Q:What is the capital city of Lativa?                        
+Ashghabat                 
+Dushanbe                     
+Tashkent                  
+Riga                         
+
+Riga
+Q:What is the capital city of Zambia?                        
+Ashghabat                 
+Dushanbe                     
+Lusaka                    
+Riga                         
+
+Lusaka
+Q:San Salvador is capital city of?                           
+El Salvaador              
+India                        
+Bahamas                   
+Djibouti                     
+
+El Salvaador
+Q:What is the capital city of Tajikistan?                    
+Ashghabat                 
+Dushanbe                     
+Tashkent                  
+Astanna                      
+
+Dushanbe
+Q:What is the capital city of Croatia ?                      
+Helinsiki                 
+Zagreb                       
+Oslo                      
+Warsaw                       
+
+Zagreb
+Q:What is the capital city of Finland ?                      
+Helinsiki                 
+Zagreb                       
+Oslo                      
+Warsaw                       
+
+Helinsiki
+Q:What is the capital city of Poland ?                       
+Helinsiki                 
+Zagreb                       
+Oslo                      
+Warsaw                       
+
+Warsaw
+Q:What is the capital city of Norway ?                       
+Helinsiki               
+Zagreb                       
+Oslo                     
+Warsaw                       
+
+Oslo
+Q:How many continents are there on globe?                    
+Six                      
+Eight                         
+Five                     
+Seven                        
+
+Seven
+Q:How many oceans are there on globe?                        
+Six                      
+Eight                         
+Five                    
+Seven                         
+
+Five
+Q:What is the capital city of Bosnia ?                       
+Helinsiki                 
+Zagreb                       
+Oslo                     
+Sarajevo                     
+
+Sarajevo
+Q:Which country is boot shape?                               
+India                    
+Italy                         
+Israel                   
+Iran                          
+
+Italy
+Q:Which country is V shape?                                  
+India                    
+Italy                         
+Israel                   
+Iran                          
+
+India
+Q:In which continent is Holy place of Christanity located?   
+Asia                      
+Australia                    
+Europe                    
+Antarctica                   
+
+Europe
+Q:In which continent is Holy place of Jews located?          
+Asia                      
+Australia                    
+Africa                    
+Antarctica                   
+
+Asia
+Q:In which continent is Holy place of Muslims located?       
+Asia                      
+Australia                    
+Africa                    
+Antarctica                   
+
+Asia 
+Q:Which city lie on river Avon?                              
+Bristol                   
+Banaras                      
+Shanghai                  
+Dhaka                        
+
+Bristol
+Q:Which city lie on river Indus?                             
+London                    
+Lahore                       
+Shanghai                  
+Hyderabad                    
+
+Hyderabad
+Q:Which city lie on river Ravi?                              
+London                    
+Lahore                       
+Shanghai                  
+Hyderabad                    
+
+Lahore
+Q:Which city lie on river Thames?                            
+London                   
+Lahore                       
+Shanghai                 
+Hyderabad                    
+
+London
+Q:Which city lie on river Ganges?                            
+London                    
+Banaras                      
+Shanghai                  
+Dhaka                        
+
+Banaras
+Q:Which city lie on river Yangtze?                           
+London                    
+Lahore                       
+Shanghai                  
+Hyderabad                    
+
+Shanghai
+Q:In which country would you find Quito?                     
+Brazil                     
+Ecuado                      
+Argentina                 
+Suriname                    
+
+Ecuado
+Q:In which country would you find Angel Falls?               
+Brazil                     
+Chile                       
+Venezuela                  
+Suriname                    
+
+Venezuela
+Q:In which country would you find Rio De Plata?              
+Brazil                     
+Chile                       
+Argentina                  
+Suriname                    
+
+Brazil
+Q:In which country would you find Atacama Desert?            
+Brazil                     
+Chile                       
+Argentina                  
+Suriname                    
+
+Chile
+Q:In which country would you find Patagonis?                 
+Brazil                     
+Chile                       
+Argentina                  
+Suriname                    
+
+
+Q:In which country would you find Paramaribo?                
+Brazil                     
+Chile                       
+Argentina                  
+Suriname                    
+
+Suriname
+Q:What is the provincial state city of Sindh?                
+Iowa                     
+Islamabad                     
+Karachi                  
+Dehli                         
+
+Karachi
+Q:What is the provincial state city of Punjab?               
+Muzzafarabad             
+Islamabad                     
+Karachi                  
+Lahore                        
+
+Lahore
+Q:What is the provincial state city of Balauchistan?         
+Muzzafarabad             
+Islamabad                     
+Karachi                  
+Quetta                        
+
+Quetta
+Q:WWhat is the provincial state city of KhyberPhaktunkhwah?  
+Muzzafarabad             
+Islamabad                     
+Peshawar                 
+Lahore                        
+
+Peshawar
+Q:What is the provincial state city of Azad Kashmir?         
+Muzzafarabad             
+Islamabad                     
+Karachi                  
+Lahore                        
+
+Muzzafarabad 

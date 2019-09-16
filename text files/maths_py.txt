@@ -1,0 +1,525 @@
+Q: What is the probability of getting a number between 4 and 7 if two dices are rolled together?
+1/4
+1/16
+1/6
+1/12
+
+1/4
+Q: The area under a curve can be found by using?
+Integration
+Summation
+Exhaustion
+All of the above
+
+All of the above
+Q: The slope of a curve at a given point, for usual terms, is given by?
+m = tan x
+m = dy/dx
+m = (y2 - y1)/(x2 - x1)
+All of them
+
+All of them
+Q: If one complex cube root of a number is (-1+V3 i)/2 then the other complex cube root is?
+(1+V3 i)/2
+(-1-V3 i)/2
+(1-V3 i)/2
+(-1+V3 i)/2i
+
+(-1-V3 i)/2
+Q: The sum of first n even natural numbers is?
+n^2
+(n^2 + 1)^2
+n(n + 1)
+n(n + 1)/2
+
+n(n + 1)
+Q: The product of n GMs between two values a and b is?
+Vab
+n(Vab)
+(Vab)^n
+(Vab)/n
+
+(Vab)^n
+Q: A set having n elements can have this many subsets:
+n
+2^n
+n^2
+2n
+
+2^n
+Q: The ratio of nPr and nCr is?
+n!
+n
+r
+r!
+
+r!
+Q: l.u.b. for sequence with nth term (1 + 1/n)^n is?
+1
+0
+e
+Does not exist
+
+e
+Q: For f: X->Y if we have f(x)=Y, then function is:
+Into
+Onto
+One-One
+Identity
+
+Onto
+Q: Centroid of triangle bisects ever median in the ratio?
+1:1
+1:2
+2:1
+2:3
+
+2:1
+Q: An example of a curve is?
+Straight Line
+Hyperbola
+X-Axis
+All of these
+
+All of these
+Q: Integral of e^(e^x + x) dx =
+xe^x + C
+e^ln(e^x)+C
+e^(e^(lne^x))+C
+e^(2e^x)+C
+
+e^(e^(lne^x))+C
+Q:Integral of x dsinx=
+sinx
+(sinx)^2
+xsinx
+(x^2)sinx
+
+xsinx
+Q: The distance of a directrix to center of circle is?
+Radius
+Circumference
+Infinity
+Length of Chord
+
+Infinity
+Q: Directional cosines in 3-space are given by?
+(cosx)^2 + (cosy)^2 + (cosz)^2 = 0
+(cosx)^2 + (cosy)^2 + (cosz)^2 = 1
+(cosx)^2 = (cosy)^2 = (cosz)^2 = 1
+(cosx)^2 + (cosy)^2 = (cosz)^2 
+
+(cosx)^2 + (cosy)^2 + (cosz)^2 = 1
+Q: Area under the curve for first quadrant for curve x^2 + y^2 = 16 is?
+16pi units^2
+8pi units^2
+4pi units^2
+2pi units^2
+
+4p units^2
+Q: A line perpendicular to y-axis is?
+x = 0
+y = C
+x = C
+y = 0
+
+y = C
+Q: f(x) = sinx + cosx is?
+Even function
+Odd function
+Neither even nor odd
+Absolute
+
+Neither even nor odd
+Q: For matrices we have trans(AB) =?
+AB
+trans(BA)
+trans(B)*trans(A)
+trans(A)*trans(B)
+
+trans(B)*trans(A)
+Q: The equation (1+x)^n ˜ 1 + nx is known as:
+Bernoulli's equation
+Cauchy's equation
+Riemman's equation
+Leibniz's equation
+
+Bernoulli's equation
+Q: The third term in expansion of (1-x)^-1 is?
+x^2
+x^-2
+-(x^2)
+-(x^-2)
+
+x^2
+Q: n! is actually equal to?
+gamma(n)
+gamma(n+1)
+gamma(n-1)
+n*gamma(n)
+
+gamma(n)
+Q: 2*2+2/2-2 = ?
+1
+3
+2
+4
+
+3
+Q: The value of (1-i)^110 = ?
+-(2)^55
+-(2)^55 * i
+(2)^55
+(2)^55 * i
+
+(2)^55 * i
+Q: The polar equation of Archimedes spiral is:
+r = cosx
+r = sinx
+r = ax
+r = a(cosx + sinx)
+
+r = ax
+Q: If a/b = c/d then (a+b)/(a-b) = (c+d)/(c-d) is called?
+Alternando
+Dividendo
+Componendo
+Componendo and Dividendo
+
+Componendo and Dividendo
+Q: The matrix which vanishes on being raised to some power is called?
+Idempotent Matrix
+Nilpotent Matrix
+Zeno's Matrix
+Unimodular Matrix
+
+Nilpotent Matrix
+Q: To avoid computation of negative mantissas, we use?
+ln
+log
+colog
+antilog
+
+colog
+Q: i(d/dx) + j(d/dy) + k(d/dz) is formula of?
+Vector space
+Gradient Field
+Gradient space
+Surface field
+
+Gradient Field
+Q: On grouping the expression x^3 + 4x^2 - 8 - 2x, we get?
+(x^2 - 2)(x + 4)
+(x^2 - 2)(x - 4)
+(x^2 + 2)(x + 4)
+(x^2 + 2)(x - 4)
+
+(x^2 - 2)(x + 4)
+Q: For a groupoid, e is usually used for showing?
+Multiplicative Inverse
+Identity
+Additive Inverse
+Closed on certain interval
+
+Identity
+Q: Natural Logarithm of a number x is given by?
+ln x
+Integral of (1/x) dx |a=x, b=1
+f^-1(x) if f(x) = e^x
+All of these
+
+All of these
+Q: The graph of function f(x) = 1/x, represents a?
+Parabola
+Rectangular Hyperbola
+Conjugate Hyperbola
+Ellipse
+
+Rectangular Hyperbola
+Q: The expression ( e^(ix) + e^(-ix) )/ 2 is equal to?
+cosx
+sinx
+coshx
+sinhx
+
+cosx
+Q: The limit of function f(x) = sin(px)/cos(px) will be?
+p
+q
+p/q
+q/p
+
+p/q
+Q: A monotonic sequence converges if and only if when it has?
+Lower Bound
+Upper Bound
+Both Lower and Upper Bound
+No Bounds
+
+Both Lower and Upper Bound
+Q: The difference between any two odd numbers results in ?
+Even Number 
+Odd Number
+Prime Number
+Composite Number
+
+Even Number
+Q: (x^3 - 2x^2 + x - 3)/(x + 1) yields?
+x^2 - 3x + 4 with remainder 4
+x^2 - 3x + 4 with remainder -7
+x^2 - 3x + 4 with remainder 1
+x^2 - 3x + 4 with remainder 2
+
+x^2 - 3x + 4 with remainder -7
+Q: The symmetric diiference between sets A and B is given by?
+(A-B)
+Union of sets (A-B) & (B-A)
+Intersection of sets (A-B) & (B-A)
+(A-B)'
+
+Intersection of sets (A-B) & (B-A)
+Q: The real part of the complex i(1-i)^2 is?
+2
+-2
+0
+None of the above
+
+2
+Q: Integral of f(x) = tanx is?
+ln(sec x) + C
+(sec x)^2 + C
+ln(tanx + secx) + C
+secxtanx
+
+ln(sec x) + C
+Q: (x^2)y" + zy' + (z^2 - n^2)y = 0 is called?
+Legendre's Differential Equation
+Bessel's Differential Equation
+Schwartz's Differential Equation
+Bernoulli's Differential Equation
+
+Bessel's Differential Equation
+Q: Probability of getting two black cards from a deck is?
+1/52
+1/26
+1/13
+1/4
+
+1/13
+Q: A biased die is rolled twice, what is the probability of getting a 3 and a 4?
+1/18
+1/12
+5/36
+0
+
+0
+Q: Six people can sit on 8 chairs in?
+20160
+720
+40320
+120
+
+20160
+Q: The function f(x) = (x-4)/(x-2) has?
+Discontinuity at x = 0
+Discontinuity at x = -2
+Discontinuity at x = 2
+No Discontinuity
+
+Discontinuity at x = 2
+Q: If for a given matrix, A = (trans(A))^-1
+Unitary Matrix
+Normal Matrix
+Orthogonal Matrix
+Hermitian Matrix
+
+Orthogonal Matrix
+Q: A curve lengths of whose all tangents are equal is called?
+Tractrix
+Parabolic Curve
+Circle
+Exponential Curve
+
+Tractrix
+Q: The Weddle's rule for solving definite integrals divides curve into?
+2n parts
+3n parts
+4n parts
+6n parts
+ 
+6n parts
+Q: For a function f:X->Y if y = x, it is called?
+Identity Function
+Inverse Function
+Constant Function
+Self Function
+
+Identity Function
+Q: The set containing the letters of the word MISSISSIPI has?
+10 elements
+11 elements
+9 elements
+4 elements
+
+4 elements
+Q: On rationalization, the binomial surd 1/(2+V3) = ?
+(2-V3)/4
+(2-V3)
+(2+V3)/4
+(2+V3)
+
+(2-V3)
+Q: y" + (a + bcos 2x)y = 0 is known as?
+Bessel's Differntial Equation
+Legendre's Differntial Equation
+Mathieu's Differntial Equation
+Bernoulli's Differntial Equation
+
+Mathieu's Differntial Equation
+Q: The inequality A <= (1/4p)(L^2) for a plane region is called?
+Isoperimetric Inequality
+Isomorphic Inequality
+Isotropic Inequality
+Isoceles Inequality
+
+Isoperimetric Inequality
+Q: The equation Tn(x) = (2^(1-n))Jn[0, 1/2 , (1-x)/2] represents?
+Jacobis's polynomial
+Chebyshev's polynomial
+Legendre's polynomial
+Bessel's polynomial
+
+Legendre's polynomial
+Q: The accelaration a of a body can be given as?
+a = d/dx (Velocity)
+a = (d/dx)^2 (Displacement)
+a = Integral of (Jerk) dx
+All of these
+
+All of these
+Q: A first linear order differntial equation is of the form?
+y' + P(x)y = Q(x)
+P(x)y' + Q(x)y = y"
+y" + P(x)y' + Q(x)y = 0
+(y')^2 + y" + P(x)Q(x)y = C
+
+y' + P(x)y = Q(x)
+Q: A/C to Raabi's test, the nth series of a(n) diverges if?
+a(n+1)/a(n) <= 1 - 1/n - r/n
+a(n+1)/a(n) >= 1 - 1/n
+a(n+1)/a(n) >= 1 - 1/r
+a(n+1)/a(n) <= 1 - 1/n
+
+a(n+1)/a(n) >= 1 - 1/n
+Q: Limit of f(x) = (sin x)/x for x -> 0 is?
+0
+1
+p
+p/2
+
+1
+Q: Which of the following is not an indeterminate form?
+0/0
+(1/0)(1/0)
+(1/inf)(1/inf)
+inf/inf
+
+(1/inf)(1/inf)
+Q: The nth term of the Taylor series of log(1+x) is?
+(-1)^(n-1) (x^n)/n
+(x^n)/n!
+(-1)^(n-1) (x^(2n-1))/(2n - 1)!
+(-1)^(n-1) (x^(2n-1))/(2n - 1)
+
+(-1)^(n-1) (x^n)/n
+Q: Kepler's Laws of Planetary Motion are applications of?
+Vector Valued Calculus
+Discrete Maths
+Statistics
+Probability
+
+Vector Valued Calculus
+Q: 1/R = ((cosx)^2)/p1 + ((sinx)^2)/p2 is called?
+Euler's equation
+Newtons's equation
+Leibniz's equation
+Archimedes equation
+
+Euler's equation
+Q: Differnciation can be used to find?
+Slope of a curve
+Approximate change in value of a function
+Rate of change between two values
+All of these
+
+All of these
+Q: Area of a trapezoid is given by?
+h(b1-b2)
+h(b1-b2)/2
+h(b1+b2)/2
+h(b1+b2)
+
+h(b1+b2)/2
+Q: sin 2x =?
+2sinxcosx
+1-2(sinx)^2
+2(cosx)^2 - 1
+cosx - sinx
+
+2sinxcosx
+Q: The hypotenuse of an iscoceles right triangle is 2x, then:
+perp, base = V2 x
+perp, base = V(2x)
+perp, base = 2Vx
+perp, base = 2x
+
+perp, base = V2 x
+Q: The value of k in the equation (kx)^2 - 2kx + 1 = 0 is?
+1-x
+1/x
+x
+1+x
+
+1/x
+Q: cos x can also be written as?
+1/secx
+(secx)^-1
+arcsecx
+All of these
+
+1/secx
+Q: For a partial function, if D < 0, then the critical value is?
+A maxima
+A minima
+A saddle point
+None of these
+
+A saddle point
+Q: The integral of lnx is?
+xlnx + x + C
+xlnx - x + C
+xlnx + lnx + C
+xlnx - lnx + C
+
+xlnx - x + C
+Q: For an angle in third quadrant, we have:
+x2 = pi - x1
+x2 = x1
+x2 = x1 - pi
+x2 = -x1
+
+x2 = x1 - pi
+Q: For x=a+b if a be the integral part, then ceiling function g(x)=?
+(a+1), x > 0
+(a-1), x > 0
+a, x > 0
+0, x > 0
+
+(a+1), x > 0
+Q: (f^-1(x))' =?
+1 / (f'(f^-1(x))
+1 / f'(x)
+f'(x) / (f^-1(x))
+(f^-1(x)) / f'(x)
+
+1 / (f'(f^-1(x))

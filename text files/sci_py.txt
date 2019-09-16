@@ -1,0 +1,525 @@
+Q: What is the normal temperature of the human body?         
+37 degrees Celsius        
+39 degree Celsius            
+34 degree Celsius         
+36 degree Celsius            
+
+37 degrees Celsius 
+Q: What is the modern name for roentgen rays?                
+Alpha-Rays                
+Beta-Rays                    
+X-Rays                    
+Gamma-Rays                   
+
+X-Rays
+Q: 'Cirrus' and 'altocumulus' are types of what?             
+Rains                          
+Cloud                   
+Waterfalls                     
+Volcanoes               
+
+Cloud
+Q: What is the ordinary name for acetylsalicylic acid?       
+Chloroform                     
+Paracetamol             
+Phenyl                         
+Aspirin                 
+
+Aspirin
+Q: How many bytes are there in a kilobyte?                   
+1024                        
+2048                       
+256                         
+512                        
+
+1024
+Q: What is rubella the technical expression for?             
+British meals
+Scott Meals              
+French meals                  
+German meals             
+
+German meals
+Q: What was Jodrell Bank famous for?                         
+Radio Telescope           
+Trasistor Radio              
+Television                
+Camera                       
+
+Radio Telescope
+Q: What is the chemical symbol for iron?                     
+Ca                        
+Mg                          
+Fe                        
+Na                          
+
+Fe
+Q: What is the chemical name for 'laughing gas'?             
+Nitrous trioxide             
+Nitrous dioxide           
+Nitric oxide                 
+Nitrous oxide             
+
+Nitrous oxide
+Q: Jupiter and Uranus are either side of which planet?       
+Saturn                   
+Mercury                       
+Earth                    
+Venus                         
+
+Saturn
+Q: How many sides does a nonagon have?                       
+Six                       
+Five                         
+Nine                      
+Seven                        
+
+Nine
+Q: What is the gestation period of a rabbit?                 
+45 Days                   
+60 Days                      
+30 Days                   
+80 Days                      
+
+30 Days
+Q: In computers, what do the initials HTTP stand for?        
+Hypertext Transfer packet  
+Hypertext Transister protocol
+Hypertext T-Plaster        
+Hypertext Transfer protocol  
+
+Hypertext Transfer protocol
+Q: From which plant is the drug quinine derived?             
+Dalmite                        
+Cinchona cc             
+Conifer Tree                   
+Coca cc                 
+
+Cinchona cc
+Q: What nationality was the astronomer Nicholas Copernicus?  
+Dutch                        
+American                  
+Samoan                       
+Polish                    
+
+Polish
+Q: What is petrology?                                        
+The study of rocks      
+The study of earth            
+The study of moons       
+The study of petroleum        
+
+The study of rocks
+Q: What is the term for a young kangaroo?                    
+A kid                     
+A cub                        
+A joey                   
+A foal                       
+
+A joey
+Q: What is the junction between two nerve cells called?      
+Neuro                     
+Diaphram                     
+Neuron                    
+A synapse                    
+
+A synapse
+Q: Which is the tallest breed of dog?                        
+Afghan Hound              
+Irish wolfhound              
+German Shepphard          
+Terrior                      
+
+Irish wolfhound
+Q: Which disease is transmitted to humans by the tsetse fly? 
+Sleeping sickness            
+Malaria                   
+Cholera                      
+Yellow Fever              
+
+Sleeping sickness
+Q: Which planet was discovered by William Herschel in 1781?  
+Saturn                        
+Venus                    
+Neptune                       
+Uranus                   
+
+Uranus
+Q: What is the term for an animal that feeds on plants?      
+An omnivore                   
+A herbivore              
+A carnivore                   
+A plantivore             
+
+A herbivore
+Q: What is the study of earthquakes called?                  
+Geology                   
+Oceanology                   
+Seismology                
+Earthquakeology              
+
+Seismology
+Q: What type of acid is found in rhubarb?                    
+Citric acid               
+Nitric acid                  
+Oxalic acid               
+Hydro-chloric acid           
+
+Oxalic acid
+Q: Pure carbon can exist in two forms. What are they?        
+Diamond and graphite      
+Coal and diamond             
+Coal and coaltar          
+Diamond and coaltar          
+
+Diamond and graphite
+Q: Which element has the symbol W?                           
+Wittsberg                  
+Tungsten                    
+Woolenium                  
+Neon                        
+
+Tungsten
+Q: Which ape has a name that means man of the forest?        
+Gorilla                   
+Baboon                       
+Orangutan                 
+Ape                          
+
+Orangutan
+Q: What is measured in pascals?                              
+Weight                     
+Mass                        
+Pressure                   
+Density                     
+
+Pressure
+Q: Phobos and Deimos are moons of which planet?              
+Mercury                    
+Uranus                      
+Jupiter                    
+Mars                        
+
+Mars
+Q: How is the disease varicella better known?                
+Malaria                      
+Chickenpox                
+Cholera                      
+Smallpox                  
+
+Chickenpox
+Q: What bird is sometimes called a yaffle?                   
+Sparrow                     
+Jay                        
+Raven                       
+The green woodpecker       
+
+The green woodpecker
+Q: How many front toes does a parrot have?                   
+Two                       
+Eight                        
+Six                       
+Four                         
+
+Two 
+Q: What is the hardest substance in the human body?          
+Cartilage                  
+Bone marrow                 
+Muscle                     
+Enamel                      
+
+Enamel
+Q: How is solid carbon dioxide commonly known?               
+Oxychloride                 
+Steam                      
+Wet ice                     
+Dry ice                    
+
+Dry ice
+Q: Which planet has the shortest year?                       
+Mercury                  
+Pluto                         
+Jupiter                  
+Andromeda                     
+
+Mercury
+Q: Which is the largest member of the cat family?            
+The Panther                   
+The tiger                
+The Leopard                   
+The Lion                 
+
+The tiger
+Q: What does the word  hippopotamus  mean?                   
+Large hip                
+Fat belly                     
+River horse              
+African myth of water         
+
+River horse
+Q: What metal is extracted from purified bauxite?            
+Aluminium                
+Zinc                          
+Iron                     
+Sodium                        
+
+Aluminium
+Q: What is the science of very low temperatures called?      
+Cerogynx                     
+Cryogenics                
+Calculus                     
+Biology   
+                
+Cryogenics
+Q: The femur is another name for which bone?                 
+The thigh bone               
+Rib cage                  
+The pelvic bone              
+Skull                     
+
+The thigh bone
+Q: What is a squirrel's nest called?                         
+A herp                        
+A drey                   
+A squirrel nest               
+A hut                    
+
+A drey
+Q: What is the smallest bird in the world?                   
+The bee hummingbird         
+Scarlet Macaw             
+Blue Jay                     
+Toucan                    
+
+The bee hummingbird
+Q: What shape are ice crystals?                              
+Hexagonal                
+Rhombic                       
+Triclinic                
+Octa-hederal                  
+
+Hexagonal
+Q: What does a heliologist study?                            
+The moon               
+The galaxy                      
+The sun                
+The Milky Way                   
+
+The sun
+Q: Bronze is an alloy of what two metals smelted together?   
+Copper and brass          
+Copper and zinc              
+Copper and tin            
+Zinc and tin                 
+
+Copper and tin
+Q: Which scientist is depicted on the 20 pound note?         
+Volt Tesla                
+Johannes Keppler             
+Micheal Ballack           
+Michael Faraday              
+
+Michael Faraday
+Q: What is the liquid part of the blood called?              
+Red Cells                  
+Plasma                      
+White cells                
+Blue cells                  
+
+Plasma
+Q: The Sun is largely composed of which two gases?           
+Carbondioxide and neon       
+Oxyen and nitrogen        
+Helium and nitrogen          
+Hydrogen and helium       
+
+Hydrogen and helium
+Q: What is a Geiger counter used to measure?                 
+Protons                    
+Electrolytic Impulse        
+Radioactivity              
+Radio-isotropy              
+
+Radioactivity
+Q: Which is the largest bird of prey in the world?           
+The Andean condor            
+Asian vulture             
+The Californian condor       
+Mocking Jay               
+
+The Andean condor
+Q: What is the term for a young elephant?                    
+A kid                    
+A joey                        
+A calf                    
+A kitten                      
+
+A calf
+Q: What is the common name for calcium oxide?                
+Lime                    
+Calc                          
+Quartz                   
+Soda                          
+
+Lime
+Q: Which acid occurs in ant bites and nettle stings?         
+Formic acid               
+Citric acids                
+Acetic acid                
+HCL                         
+
+Formic acid
+Q: What are a mammal's vibrissae?                            
+Its chest                
+Mammary glands                
+Its whiskers             
+Eyes                          
+
+Its whiskers
+Q: What is the term for a negatively charged electrode?      
+A cathode                
+Anode                         
+Diode                    
+Xiode                         
+
+A cathode
+Q: What is a flight of geese called?                         
+A pluck                      
+A skein                   
+A castle                     
+A mock                    
+
+A skein
+Q: What kind of camel has two humps?                         
+Bactrian camel            
+Arabian camel                
+Mongolion camel           
+Gryends camel                
+
+Bactrian camel
+Q: Of what field of science was Gregor Mendel the founder?   
+Micro-biology                
+Genetics                  
+Chemistry                    
+Biotech                   
+
+Genetics
+Q: What is the largest type of owl?                          
+American owl                
+Duve                       
+The eagle owl               
+Black bigeyed owl          
+
+The eagle owl
+Q: What does the Kelvin scale measure?                       
+Temperature              
+Mass                          
+Air                      
+Length                        
+
+Temperature
+Q: What is magma?                                            
+Fire                    
+Molten rock within the earth   
+Wet rocks               
+Ember                          
+
+Molten rock within the earth
+Q: What plant does opium come from?                          
+Cocoa plant              
+Belladonna                    
+The opium poppy          
+Arnica plant                  
+
+The opium poppy
+Q: In what decade was the first photograph taken?            
+1930s                    
+1820s                         
+1880s                    
+1900s                         
+
+1820s
+Q: What do the initials TNT stand for?                       
+Trinitrotoluene           
+Trinitrotank                 
+Trinitretoulene           
+Trindadntobago               
+
+Trinitrotoluene
+Q: What is the substance that makes plants green?            
+Stems                      
+Urea                        
+Riboflavin                 
+Chlorophyll                 
+
+Chlorophyll
+Q: How many feet are there in one fathom?                    
+Nine feet                     
+Six feet                 
+Sixteen feet                  
+Eight feet               
+
+Six feet
+Q: As what are iron pyrites commonly known?                  
+Fool's gold              
+Plastic                       
+Sulphur                  
+Alvero iron                   
+
+Fool's gold
+Q: What does an anemometer measure?                          
+Pressure                    
+Sea Waves                  
+Waterlevel in tanks         
+Wind speed                 
+
+Wind speed
+Q: What is a CAT scanner usually used to detect?             
+Cats                      
+College results              
+Cancers in the body       
+Camera at towers             
+
+Cancers in the body
+Q: What is the study of poisons called?                      
+Toxicology                
+Poisonamatics                 
+Toxingenicty             
+Toxigenics                    
+
+Toxicology
+Q: What was the Earth's first artificial satellite?          
+Apollo 13                 
+Apollo 11                    
+Sputnik 1                 
+Roosevault 2                 
+
+Sputnik 1
+Q: Which planet orbits nearest to Earth?                     
+Mars                          
+Venus                    
+Mercury                        
+Moon                     
+
+Venus
+Q: Where is the Sea of Tranquillity?                         
+In Usa                        
+In Mexico                
+In Russia                     
+On the Moon              
+
+On the Moon
+Q: How did the QWERTY keyboard get its name?                 
+Name of typewriter        
+From its first six letter keys
+Name of its inventor     
+Name of landmark              
+
+From its first six letter keys
+Q: When was the planet Pluto discovered?                     
+1934                        
+1935                       
+1930                        
+1967                       
+
+1930
