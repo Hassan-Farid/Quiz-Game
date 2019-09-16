@@ -53,22 +53,22 @@ class Play():
 
     def check_file(self):
         if self.value == "Sports":
-            f = open("sprt_py.txt","r")
+            f = open(r"text files/sprt_py.txt","r")
 
         elif self.value == "History":
-            f = open("his_py.txt","r")
+            f = open(r"text files/his_py.txt","r")
 
         elif self.value == "Science":
-            f = open("sci_py.txt","r")
+            f = open(r"text files/sci_py.txt","r")
 
         elif self.value == "GeneralKnowledge":
-            f = open("gk_py.txt","r")
+            f = open(r"text files/gk_py.txt","r")
 
         elif self.value == "Geography":
-            f = open("geo_py.txt","r")
+            f = open(r"text files/geo_py.txt","r")
 
         elif self.value == "Maths":
-            f = open("maths_py.txt","r")
+            f = open(r"text files/maths_py.txt","r")
 
         return f
 
