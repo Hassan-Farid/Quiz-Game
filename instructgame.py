@@ -15,10 +15,10 @@ class instruct():
 
         instructions = tk.Label(self.instructWin, bg = 'dark violet', fg='black', font='Times 14 italic', text=
         """ This is the instructions section.First Type your Name in the Given username entry
-            Boxes and press Submit Name button to store the score achieved with your name.
+            Boxes and press Submit Name button to store your name alongwith progress for later.
             If you enter the name and dont press Submit Name, your name will not be displayed
             in the Score window. Select a category from the given Option Menu of Categories.
-            There are overall 5 categories i.e. Sports, History, Science, GeneralKnowledge,
+            There are overall 6 categories i.e. Sports, History, Science, GeneralKnowledge,
             Geography and Maths. The game will start as soon as you choose a certain category.
             For each category, you will be asked unlimited number of questions. The game will
             continue until you give a wrong answer to a question. Each question is worth 50
